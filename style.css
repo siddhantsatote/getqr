@@ -9,12 +9,11 @@ body {
   display: flex;
   align-items: center;
   width: 100%;
-  height: 4rem;
+  height: 7rem;
   font-size: 1rem;
   border: none;
   padding-left: 5rem;
   padding-right: 5rem;
-  padding-top: 2rem;
 }
 
 .header ul {
@@ -90,7 +89,7 @@ body {
   justify-content: space-around;
   flex-direction: row;
   width: 100%;
-  height: 90vh;
+  height: auto;
 }
 
 .main .instruction .div1 {
